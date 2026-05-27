@@ -344,7 +344,7 @@ Ali, M. (2025). *BaltiVoice: A Low-Resource ASR Dataset for the Balti Language* 
 
 <div align="center">
   <a href="https://github.com/mohdali-dev">
-    <img src="https://avatars.githubusercontent.com/mohdali-dev?s=100" width="100" style="border-radius: 50%;" alt="Mohammad Ali">
+    <img src="https://avatars.githubusercontent.com/mohdali-dev?s=400" width="100" style="border-radius: 50%;" alt="Mohammad Ali">
   </a>
   
   ### **Mohammad Ali**  
