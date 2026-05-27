@@ -343,7 +343,9 @@ Ali, M. (2025). *BaltiVoice: A Low-Resource ASR Dataset for the Balti Language* 
 ## 👨‍💻 Author
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GH_ID?s=100" width="100" style="border-radius: 50%;" alt="Author">
+  <a href="https://github.com/mohdali-dev">
+    <img src="https://avatars.githubusercontent.com/mohdali-dev?s=100" width="100" style="border-radius: 50%;" alt="Mohammad Ali">
+  </a>
   
   ### **Mohammad Ali**  
   🎓 BSc Software Engineering, IUB  
