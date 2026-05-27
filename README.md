@@ -1,5 +1,7 @@
+<div align="center">
+  
 # 🎙️ BaltiVoice ASR Dataset
-
+</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Balti%20(بلتی)-0077B6?style=for-the-badge&logo=language&logoColor=white" alt="Language">
   <img src="https://img.shields.io/badge/ISO_639--3-bft-009688?style=for-the-badge" alt="ISO Code">
