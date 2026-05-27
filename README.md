@@ -9,7 +9,7 @@
   <br>
   <img src="https://img.shields.io/badge/Samples-10,060-E76F51?style=for-the-badge" alt="Samples">
   <img src="https://img.shields.io/badge/Duration-~16.8_hours-F4A261?style=for-the-badge" alt="Duration">
-  <img src="https://img.shields.io/badge/License-CC%BY%4.0-264653?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-264653?style=for-the-badge" alt="License">
   <br>
   <img src="https://img.shields.io/badge/Resource_Level-Critically_Low--Resource-E9C46A?style=for-the-badge" alt="Resource Level">
   <img src="https://img.shields.io/badge/Region-Gilgit%E2%80%91Baltistan%2C%20Pakistan-1D3557?style=for-the-badge" alt="Region">
