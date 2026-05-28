@@ -17,9 +17,6 @@
 
 <div align="center">
 
-[![🚀 Try Live Demo](https://img.shields.io/badge/🚀_Try_Live_Demo-Start_Now-orange?style=for-the-badge&logo=gradio)](https://huggingface.co/spaces/mohdali1/baltivoice-demo)
-[![ Explore Dataset](https://img.shields.io/badge/📦_Explore_Dataset-HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/mohdali1/baltivoice-asr)
-[![🤖 View Model Card](https://img.shields.io/badge/_View_Model-Whisper_Small-green?style=for-the-badge&logo=huggingface)](https://huggingface.co/mohdali1/whisper-small-balti)
 [![📄 Read Paper Draft](https://img.shields.io/badge/📄_Read_Paper-Draft_in_Progress-purple?style=for-the-badge&logo=latex)](#-citation)
 
 </div>
