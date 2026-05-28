@@ -221,7 +221,7 @@ training_args = Seq2SeqTrainingArguments(
 
 <div align="center">
 
-[![Demo Screenshot](https://via.placeholder.com/600x300/4F46E5/FFFFFF?text=🎙️+BaltiVoice+Demo+Preview)](https://huggingface.co/spaces/mohdali1/baltivoice-demo)
+<img src="assets/demo.png" alt="BaltiVoice ASR Demo Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 
 </div>
 
