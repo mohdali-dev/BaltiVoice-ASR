@@ -82,14 +82,17 @@ graph LR
 
 </div>
 
-### ✨ Key Deliverables
+<div align="center">
 
-| 📦 Component | 📝 Description | 🔗 Link |
-|-------------|---------------|---------|
-| **Dataset** | 10,060 validated Balti audio clips (~16.8h) | [🔗 HF Dataset](https://huggingface.co/datasets/mohdali1/baltivoice-asr) |
-| **Model** | Whisper-small fine-tuned for Balti ASR | [🔗 HF Model](https://huggingface.co/mohdali1/whisper-small-balti) |
-| **Demo** | Real-time transcription via web interface | [🔗 Live Demo](https://huggingface.co/spaces/mohdali1/baltivoice-demo) |
-| **Code** | Reproducible training & evaluation pipeline | [🔗 GitHub Repo](https://github.com/mohdali-dev/baltivoice-asr) |
+### 🚀 Quick Access
+
+[![🚀 Try Live Demo](https://img.shields.io/badge/_Try_Live_Demo-Start_Now-orange?style=for-the-badge&logo=gradio)](https://huggingface.co/spaces/mohdali1/baltivoice-demo)
+[![📦 Explore Dataset](https://img.shields.io/badge/📦_Explore_Dataset-HuggingFace-blue?style=for-the-badge&logo=huggingface)](https://huggingface.co/datasets/mohdali1/baltivoice-asr)
+[![🤖 View Model Card](https://img.shields.io/badge/_View_Model-Whisper_Small-green?style=for-the-badge&logo=huggingface)](https://huggingface.co/mohdali1/whisper-small-balti)
+[![📄 Read Paper Draft](https://img.shields.io/badge/📄_Read_Paper-Draft_in_Progress-purple?style=for-the-badge&logo=latex)](#-citation)
+[![💻 View Code](https://img.shields.io/badge/💻_View_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/mohdali-dev/baltivoice-asr)
+
+</div>
 
 ---
 
