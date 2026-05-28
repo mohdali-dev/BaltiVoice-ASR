@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software or dataset, please cite it as below."
 authors:
   - family-names: Ali
     given-names: Muhammad
-    orcid: "https://orcid.org/YOUR_ORCID_HERE" # Optional: Add your ORCID if you have one
+    # Optional: Add your ORCID here if you have one
+    # orcid: https://orcid.org/YOUR_ORCID_HERE 
 title: "BaltiVoice: First Public ASR Dataset and Model for the Low-Resource Tibetic Language Balti (bft)"
 version: "1.0.0"
 date-released: 2026-05-29
@@ -13,7 +14,7 @@ license: MIT
 type: software
 identifiers:
   - description: DOI
-    value: "10.5281/zenodo.XXXXXXX" # Optional: Replace with Zenodo DOI after archiving
+    value: "10.5281/zenodo.XXXXXXX" # Replace with your Zenodo DOI after archiving
 keywords:
   - automatic-speech-recognition
   - balti
@@ -21,6 +22,7 @@ keywords:
   - whisper
   - nlp
   - speech-to-text
+  - tibetic-languages
 contact:
   email: alisdkse@gmail.com
 related-software:
