@@ -213,7 +213,7 @@ Every contribution, no matter how small, helps bring Balti into the digital age.
 **Questions?**
 - Open an issue.
 - Email: `alisdkse@gmail.com`
-- LinkedIn: [Mohd Ali](https://linkedin.com/in/mohdali1)
+- LinkedIn: https://linkedin.com/in/mohdali1
 
 <div align="center">
 
