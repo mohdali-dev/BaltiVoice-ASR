@@ -221,7 +221,14 @@ training_args = Seq2SeqTrainingArguments(
 
 <div align="center">
 
-<img src="assets/demo.png" alt="BaltiVoice ASR Demo Interface" width="800" style="border: 2px solid #4F46E5; border-radius: 8px; box-shadow: 0 0 20px rgba(79, 70, 229, 0.2);"/>
+<div style="border: 1px solid #d1d5db; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); max-width: 800px;">
+  <div style="background: #f3f4f6; padding: 8px 12px; border-bottom: 1px solid #d1d5db; display: flex; gap: 6px;">
+    <div style="width: 10px; height: 10px; background: #ef4444; border-radius: 50%;"></div>
+    <div style="width: 10px; height: 10px; background: #f59e0b; border-radius: 50%;"></div>
+    <div style="width: 10px; height: 10px; background: #10b981; border-radius: 50%;"></div>
+  </div>
+  <img src="assets/demo.png" alt="BaltiVoice ASR Demo Interface" style="width: 100%; display: block;"/>
+</div>
 </div>
 
 ### ✨ What You Can Do:
