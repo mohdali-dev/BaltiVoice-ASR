@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ali
+    given-names: Muhammad
+    orcid: "https://orcid.org/YOUR_ORCID_HERE" # Optional: Add your ORCID if you have one
+title: "BaltiVoice: First Public ASR Dataset and Model for the Low-Resource Tibetic Language Balti (bft)"
+version: "1.0.0"
+date-released: 2026-05-29
+url: "https://github.com/mohdali-dev/BaltiVoice-ASR"
+repository-code: "https://github.com/mohdali-dev/BaltiVoice-ASR"
+license: MIT
+type: software
+identifiers:
+  - description: DOI
+    value: "10.5281/zenodo.XXXXXXX" # Optional: Replace with Zenodo DOI after archiving
+keywords:
+  - automatic-speech-recognition
+  - balti
+  - low-resource-languages
+  - whisper
+  - nlp
+  - speech-to-text
+contact:
+  email: alisdkse@gmail.com
+related-software:
+  - name: HuggingFace Transformers
+    link: "https://huggingface.co/docs/transformers"
+    relation: implements
+  - name: Gradio
+    link: "https://gradio.app/"
+    relation: implements
+funding: "Self-funded / Personal Project"
