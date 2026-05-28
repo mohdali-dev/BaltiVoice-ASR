@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints (if you ever add them locally)
+checkpoint-*/
+whisper-balti/
+
+# OS files
+.DS_Store
+Thumbs.db
