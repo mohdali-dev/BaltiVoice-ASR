@@ -29,18 +29,41 @@
 
 ---
 
-## 🌍 Why BaltiVoice?
 
-<div align="center">
+##  Why BaltiVoice? The Mission
 
-| 🗣️ Language | 📊 Speakers | 🚨 Status | 🧭 Region |
-|------------|-----------|----------|----------|
-| **Balti (بلتی)** | ~300,000 | 🔴 Critically Low-Resource | Gilgit-Baltistan, Pakistan |
+### 🗣️ The Language: Balti (بلتی)
+Balti is a **Tibetic language** spoken by approximately **300,000 people** in Gilgit-Baltistan, Pakistan, and Ladakh, India. With roots in Classical Tibetan, it carries centuries of oral history, poetry, and cultural identity.
 
-</div>
+| Feature | Detail |
+| :--- | :--- |
+| **Script** | Primarily **Perso-Arabic (Nastaliq)**; historically Tibetan. |
+| **Status** | 🔴 **Critically Low-Resource**: No standard digital tools, no ASR models, limited NLP datasets. |
+| **Risk** | Without digital representation, the language risks fading from the modern technological landscape. |
 
-> Balti is a Tibetic language with rich cultural heritage — yet it has **virtually zero** publicly available NLP or ASR resources.  
-> **BaltiVoice changes that.**
+### 💔 The Problem: A Digital Silence
+Despite its rich heritage, Balti suffers from **"Digital Neglect."**
+*   ❌ **Zero Public ASR:** Until now, there was **no** open-source speech-to-text model for Balti.
+*   ❌ **No Standard Data:** Researchers had no validated audio-text pairs to build upon.
+*   ❌ **Accessibility Barrier:** Native speakers could not use voice assistants, transcription tools, or educational apps in their mother tongue.
+
+> *"When a language lacks digital tools, it becomes invisible to the future. I built BaltiVoice to ensure Balti has a seat at the AI table."*
+
+### 🚀 Why I Built This Model
+As an **AI/ML Engineer**, I wanted to bridge the gap between cutting-edge technology and underserved communities. This project is about more than fine-tuning Whisper—it’s about **preservation through code**.
+
+1.  **Preserve Oral History:** By digitizing speech, we create a permanent archive of Balti pronunciation and dialects.
+2.  **Prove Low-Resource Viability:** Demonstrating that **high-quality ASR is possible with just ~16 hours of data** using transfer learning.
+3.  **Empower Future Builders:** This dataset and model serve as a foundation for:
+    *   🎓 **Education:** Tools to teach Balti literacy.
+    *   🏥 **Healthcare:** Voice-to-text for medical records in rural areas.
+    *   📻 **Media:** Transcribing local radio and folk stories.
+
+### 🌟 The Impact
+BaltiVoice is not just a model; it is a **foundation** for:
+*   ✅ **Researchers** studying low-resource Tibetic languages.
+*   ✅ **Developers** building Balti-first applications.
+*   ✅ **Speakers** seeing their language recognized by modern AI.
 
 ---
 
