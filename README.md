@@ -221,8 +221,7 @@ training_args = Seq2SeqTrainingArguments(
 
 <div align="center">
 
-<img src="assets/demo.png" alt="BaltiVoice ASR Demo Interface" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-
+<img src="assets/demo.png" alt="BaltiVoice ASR Demo Interface" width="800" style="border: 1px solid #e5e7eb; border-radius: 12px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);"/>
 </div>
 
 ### ✨ What You Can Do:
