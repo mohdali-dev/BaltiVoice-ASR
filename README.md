@@ -33,7 +33,7 @@
 ##  Why BaltiVoice? The Mission
 
 ### 🗣️ The Language: Balti (بلتی)
-Balti is a **Tibetic language** spoken by approximately **400,000 people** in Gilgit-Baltistan, Pakistan, and Ladakh, India. With roots in Classical Tibetan, it carries centuries of oral history, poetry, and cultural identity.
+Balti is a **Tibetic language** spoken by approximately **400,000 to 450,000 people** in Gilgit-Baltistan, Pakistan, and Ladakh, India. With roots in Classical Tibetan, it carries centuries of oral history, poetry, and cultural identity.
 
 | Feature | Detail |
 | :--- | :--- |
