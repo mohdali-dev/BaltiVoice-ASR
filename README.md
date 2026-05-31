@@ -101,7 +101,7 @@ graph LR
 
 | Model | WER | Dataset | Steps |
 |-------|-----|---------|-------|
-| Whisper-small (zero-shot) | ~95%+ ❌ | BaltiVoice | — |
+| Whisper-small (zero-shot) | 182.18% | BaltiVoice | — |
 | **Whisper-small (fine-tuned)** | **30.07% ✅** | BaltiVoice | 1000 |
 
 <br>
