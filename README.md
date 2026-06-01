@@ -296,6 +296,8 @@ gantt
 </div>
 
 ### 🎯 Upcoming Features
+- [✔️] **Speaker-disjoint split**: Zero speaker overlap confirmed
+- [✔️] **Zero-shot baseline**: Measured at 182.18% WER
 - [ ] **Extended Training**: Push to 2000 steps → target **~24% WER**
 - [ ] **Text Normalization**: Post-processing for cleaner outputs
 - [ ] **Whisper-Medium**: Larger model for better accuracy
