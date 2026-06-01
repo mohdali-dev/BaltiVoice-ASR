@@ -165,9 +165,9 @@ from datasets import load_dataset
 dataset = load_dataset("mohdali1/baltivoice-asr")
 print(dataset)
 # DatasetDict({
-#     train: Dataset({features: ['audio', 'sentence'], num_rows: 9051})
-#     validation: Dataset({features: ['audio', 'sentence'], num_rows: 1006})
-# })
+#     train: Dataset({features: ['audio', 'sentence'], num_rows: 9519})
+#     validation: Dataset({features: ['audio', 'sentence'], num_rows: 538})
+})
 ```
 
 ---
