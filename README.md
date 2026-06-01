@@ -403,6 +403,4 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 *"Technology should serve all languages — not just the most spoken ones."*
 
-<img src="https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif" alt="Heart Animation" width="50"/>
-
 </div>
