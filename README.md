@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[![📄 Read Paper Draft](https://img.shields.io/badge/📄_Read_Paper-Draft_in_Progress-purple?style=for-the-badge&logo=latex)](#-citation)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.03504-b31b1b.svg?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2606.03504)
 
 </div>
 
