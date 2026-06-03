@@ -303,7 +303,7 @@ gantt
 - [ ] **Whisper-Medium**: Larger model for better accuracy
 - [ ] **Romanized Support**: Handle both Nastaliq & Latin script Balti
 - [ ] **Speaker Adaptation**: Better performance across accents
-- [ ] **arXiv Paper**: Formal research publication
+- ✔️ **arXiv Paper**: Formal research publication
 - [ ] **Community Contribution**: Submit to Mozilla Common Voice
 
 ---
@@ -349,16 +349,14 @@ If you use BaltiVoice in your research, please cite:
 
 ```bibtex
 @misc{ali2026baltivoice,
-  author    = {Ali, Muhammad},
-  title     = {BaltiVoice: First Public ASR Dataset and Model for the Low-Resource Tibetic Language Balti (bft)},
-  year      = {2026},
-  publisher = {HuggingFace},
-  url       = {https://huggingface.co/datasets/mohdali1/baltivoice-asr},
-  note      = {Model: https://huggingface.co/mohdali1/whisper-small-balti}
+      title={BaltiVoice: A Speech Corpus and Fine-tuned Whisper ASR System for the Balti Language}, 
+      author={Muhammad Ali},
+      year={2026},
+      eprint={2606.03504},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2606.03504}, 
 }
-```
-
-> 📄 *Paper draft in progress for arXiv submission — stay tuned!*
 
 ---
 
