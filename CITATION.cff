@@ -10,6 +10,7 @@ date-released: 2026-06-02  # Date of arXiv submission/publication
 authors:
   - family-names: "Ali"
     given-names: "Muhammad"
+    orcid: "https://orcid.org/0009-0005-3272-4489"
 abstract: >
   We present BaltiVoice, a 16.8-hour read-speech corpus for Balti (ISO 639-3: bft), 
   a Tibetic language spoken in Gilgit-Baltistan, Pakistan, with no prior publicly 
