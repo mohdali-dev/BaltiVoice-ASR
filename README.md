@@ -13,7 +13,11 @@
 [![Colab](https://img.shields.io/badge/Built_With-Google_Colab-f9ab00?style=flat-square&logo=googlecolab)]()
 
 <br>
+<div align="center">
 
+[![arXiv](https://img.shields.io/badge/arXiv-2606.03504-b31b1b.svg?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2606.03504)
+
+</div>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4Z3Z4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRuo6sLetdllPAQ/giphy.gif" alt="Balti Voice Animation" width="400"/>
 
 ### *Speak Balti. Get Transcription. Preserve Culture.*
